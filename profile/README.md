@@ -16,7 +16,7 @@ To design AI-first tools that:
 ---
 
 ## 📡 Connect With Us
-- **Website:** [https://mayrlabs.com.ng](https://mayrlabs.com.ng)
+- **Website:** [https://mayrlabs.com.ng](https://mlabs.ng)
 - **GitHub:** [github.com/MayR-Labs](https://github.com/MayR-Labs)
 
 ---
